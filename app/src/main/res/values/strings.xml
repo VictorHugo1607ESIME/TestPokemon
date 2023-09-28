@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestPokeon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_list_pokemon">Lista de pokemon</string>
+    <string name="text_details_pokemon">Detalles del pokemon</string>
+    <string name="text_list_empty">Lista de pokemons vacía</string>
+</resources>
